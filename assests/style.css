@@ -9,24 +9,58 @@ body{
 
 }
 
-.header {
-
+.header h1{
+    text-align: center;
+    background-color: rgb(34, 5, 66);
+    height:fit-content;
 }
 
 .hero{
 
-    border: black;
+    border-bottom:solid black 2px;
     background-color: red;
-    width:fit-content;
-    text-align: center;
-    height: 450px;
+    width:100vw;
+    display:flex;
+    height: fit-content;
     font-size: 20px;
+    justify-content: flex-end;
+    
 
 
 }
-
-.content{
-
+ul {
+width: 100%;
+display: flex;
+justify-content: space-evenly;
 
 }
+
+
+
+
+.content1{
+    border: 2px solid black;
+    display: flex;
+    justify-content: left;
+    height: fit-content;
+
+}
+
+.content2{
+    border: 2px solid black;
+    display: flex;
+    justify-content: right;
+    height: fit-content;
+
+}
+
+.nav1{
+    display: flex;
+    justify-content: right;
+}
+.nav2{
+    display: flex;a
+    justify-content: left;
+}
+
 
