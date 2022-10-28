@@ -43,6 +43,7 @@ justify-content: space-evenly;
     display: flex;
     justify-content: left;
     height: fit-content;
+    background-color: burlywood;
 
 }
 
@@ -51,16 +52,27 @@ justify-content: space-evenly;
     display: flex;
     justify-content: right;
     height: fit-content;
+    background-color: blue;
 
 }
 
 .nav1{
+    /* height: auto;
+    max-width: 100; */
     display: flex;
     justify-content: right;
 }
 .nav2{
-    display: flex;a
+    /* height: auto;
+    max-width: 100; */
+    display: flex;
     justify-content: left;
+}
+
+img {
+    height: auto;
+    max-width: 100%;
+
 }
 
 
