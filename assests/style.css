@@ -1,3 +1,14 @@
+
+.column{
+  max-width: 1440px;
+  margin-left: auto;
+  margin-right: auto;
+  border: solid 10px rgb(59, 75, 24);
+    
+}
+
+
+
 head {}
 
 a:link {
@@ -9,6 +20,7 @@ a:hover {
     text-decoration: wavy;
     font-style: italic;
     background-color: azure;
+    background-image: ;
 }
 
 body {
@@ -16,7 +28,7 @@ body {
     padding: 1px;
     border: gold solid 2px;
     width: 100%;
-
+    background-color: gray;
 
 }
 
@@ -33,7 +45,7 @@ body {
     background-color: red;
     display: flex;
     height: fit-content;
-    font-size: 25px;
+    font-size: 30px;
     justify-content: flex-end;
 
 
@@ -108,3 +120,4 @@ h2 {
     display: flex;
     justify-content: right;
 }
+h3
