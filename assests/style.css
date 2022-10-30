@@ -115,23 +115,10 @@ footer{
     background-color: #F0F7D4;
 
 }
-
-/* @media (max-width: 991px) {
-    .container {
-        flex-direction: column;
-    }
-
-    .container .card {
-        flex-direction: column;
-        max-width: 350px;
-    }
-
-    .container .card .id {
-        max-width: 100%;
-    }
-
-    .container .card .text {
-        margin-left: 0px;
-    }
-
-} */
+/* controls images linked to projects */
+ .Projects .img {
+    max-width: 400px;
+    flex: 0 0 400px;
+    min-width: 150px;
+    min-height: 150px;
+}
