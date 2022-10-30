@@ -81,6 +81,7 @@ ul {
     background-color: #FC600A;
     min-height: 100vw;
 
+
 }
 
 .content .card {
@@ -91,8 +92,16 @@ ul {
     padding: 15px;
     display: flex;
     min-height: 250px;
-    background-color:aqua;
+    background-color:tan;
+    font-size: 150%;
 
+}
+h2 {
+    font-size: 150%;
+    font-style: italic;
+    justify-content: space-evenly;
+    display: flex;
+    align-content: center;
 }
 
 .lower {
