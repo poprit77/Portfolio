@@ -51,25 +51,25 @@ ul {
 
 }
 /* Picture controller excluding technology section */
-.article .card .id {
+.content .card .id {
     max-width: 400px;
     flex: 0 0 400px;
     min-width: 150px;
     min-height: 150px;
 }
 /* controls image width */
-.article .card .id img {
+.content .card .id img {
     max-width: 100%;
 }
 /* controls text placement and size */
-.article .card .text {
+.content .card .text {
     margin-left: 20px;
 }
 
 
 
 /* controls each box size and style */
-article {
+.content {
     border: 2px solid black;
     position: relative;
     width:100%;
@@ -83,7 +83,7 @@ article {
 
 }
 /* controls contents of box from pervious line */
-.article .card {
+.content .card {
     position: relative;
     max-width:fit-content;
     background-color: aliceblue;
@@ -116,7 +116,7 @@ footer{
 
 }
 
-@media (max-width: 991px) {
+/* @media (max-width: 991px) {
     .container {
         flex-direction: column;
     }
@@ -134,4 +134,4 @@ footer{
         margin-left: 0px;
     }
 
-}
+} */
