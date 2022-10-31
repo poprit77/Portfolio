@@ -85,8 +85,8 @@ ul {
 /* controls contents of box from pervious line */
 .content .card {
     position: relative;
-    max-width:fit-content;
-    background-color: aliceblue;
+    max-width:90%;
+
     margin: 10px;
     padding: 15px;
     display: flex;
@@ -116,18 +116,20 @@ footer{
 
 }
 /* controls images linked to projects */
- .Projects .img {
+ .Projects .image {
     max-width: 400px;
     flex: 0 0 400px;
     min-width: 150px;
     min-height: 150px;
     position: relative;
     justify-content: space-evenly;
+    display: flex;
 }
+/* controls banners on linked images */
 span {
     position: absolute;
     top: 100px;
-    left: 20px;
+    left: 1%;
     background-color: firebrick;
     border: 1px solid black;
 }
@@ -136,7 +138,32 @@ nav {
     position:relative;
     justify-content: space-evenly;
     align-content: center;
-    max-height: 400px;
+    max-height: 200px;
+    width: 40%;
 
 }
 
+.Projects {
+    display: flex;
+    flex-direction: column;
+    align-content: stretch;
+    justify-content: center;
+    align-items: center;
+    margin-left: 10%;
+
+}
+
+#bottom-image {
+    padding: 2%;
+}
+.project-span {
+top: 69px;
+background-color: firebrick;
+border: 1px solid black;
+left: 36%;
+position: absolute;
+}
+
+#bottom-card{
+    width:100%;
+}
