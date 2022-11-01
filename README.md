@@ -9,6 +9,8 @@ In section 3 you will find a photos linked to my previous projects.
 At the top of the document there will be hyperlinks to each section.
 At the bottom their will be one final section listing my contact info. 
 The entire site will react to different display sizes. 
+
+
 link to website screen shot
 
 https://github.com/poprit77/Portfolio/blob/main/assests/images/part%201.png
