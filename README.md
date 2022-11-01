@@ -11,7 +11,7 @@ At the bottom their will be one final section listing my contact info.
 The entire site will react to different display sizes. 
 link to website screen shot
 
-assests\images\part 1.png
+https://github.com/poprit77/Portfolio/blob/main/assests/images/part%201.png
 assests\images\part 2.png
 link to site
 https://poprit77.github.io/Portfolio/
