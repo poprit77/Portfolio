@@ -12,6 +12,6 @@ The entire site will react to different display sizes.
 link to website screen shot
 
 https://github.com/poprit77/Portfolio/blob/main/assests/images/part%201.png
-assests\images\part 2.png
+[assests\images\part 2.png](https://github.com/poprit77/Portfolio/blob/main/assests/images/part%202.png)
 link to site
 https://poprit77.github.io/Portfolio/
